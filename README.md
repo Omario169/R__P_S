@@ -1,1 +1,1 @@
-# R__P_S
+A rock, paper, scissors simulator to be played on the browser.
